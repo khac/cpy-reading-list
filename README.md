@@ -7,5 +7,5 @@ Some interesting reading and video playlist to go over some basics,
 - [Real Python podcast for version 3.12](https://realpython.com/podcasts/rpp/175/)
 
 
-# This is a no GIL implementation of python
+## This is a no GIL implementation of python
 - https://github.com/khac/nogil
